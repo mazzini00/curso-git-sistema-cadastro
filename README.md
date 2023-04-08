@@ -5,5 +5,5 @@
 Para atualizar digite os comandos:
 
 ```
-apt-get update && apt-get upgrade
+node app.js
 ```
